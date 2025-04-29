@@ -1,0 +1,19 @@
+# Core dependencies
+pytest>=7.0.0
+click>=8.0.0
+rich>=10.0.0
+pydantic>=2.0.0
+faiss-cpu>=1.7.0
+
+# LLM libraries
+transformers>=4.30.0
+huggingface-hub>=0.16.0
+torch>=2.0.0
+ctransformers>=0.2.24
+llama-cpp-python>=0.2.0
+sentence-transformers>=2.2.0
+
+# Utilities
+watchdog>=3.0.0
+tiktoken>=0.5.0
+pympler>=1.0.0
